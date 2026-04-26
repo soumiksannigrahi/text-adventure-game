@@ -1,0 +1,13 @@
+# Compiled files
+*.class
+bin/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Build folders
+dist/
+.dist/
